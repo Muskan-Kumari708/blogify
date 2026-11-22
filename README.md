@@ -5,6 +5,7 @@ Built with Node.js, Express, MongoDB and EJS.
 
 ## Features
 - User signup and login with JWT authentication (stored in cookies)
+- Passwords securely hashed before saving to the database
 - Create and view blog posts
 - Profile image for users
 - Role-based users (e.g. user/admin)
