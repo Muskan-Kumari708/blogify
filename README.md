@@ -42,8 +42,5 @@ npm start
 ```
 Open `http://localhost:8000` in your browser.
 
-## Screenshots
-(add screenshots here)
-
 ## Author
 Muskan Kumari
